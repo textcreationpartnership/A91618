@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quæsumus te, &amp;c. Or, The supplement to the New letany for these times: being a further expedient in order to the perfecting of a reformation in the three nations; but chiefly of the city of London.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91618</idno><idno type="EEBO-CITATION">99863325</idno>
+  <idno type="VID">115517</idno>
+  <idno type="EEBO-PROQUEST">2240925916</idno>
+  
+            <idno type="STC">Wing Q8</idno>
+            <idno type="STC">Thomason E1017_2</idno>
+            <idno type="STC">ESTC R203351</idno>
+            <idno type="PROQUEST">99863325</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863325e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115517)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quæsumus te, &amp;c. Or, The supplement to the New letany for these times: being a further expedient in order to the perfecting of a reformation in the three nations; but chiefly of the city of London.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Cauda Draconis: in English, the Rump,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "March. 9 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115517:1"/>
+            <pb facs="tcp:115517:1"/>
+            <p>Quaesumus te, &amp;c. OR, THE SUPPLEMENT TO THE NEW LETANY For these Times: Being a further EXPEDIENT In order to the perfecting of a REFORMATION IN THE THREE NATIONS; But chiefly of the City of LONDON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Cauda Draconis:</hi> in En<g ref="char:EOLhyphen"/>glish, the <hi>Rump.</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115517:2"/>
+            <pb n="3" facs="tcp:115517:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>HAving some weeks since published the for<g ref="char:EOLhyphen"/>mer part of this Letany, entituled, <hi>A new Letany for these Times, &amp;c.</hi> and finding that it was very acceptable (for what worth I know not) to many of the ingenuous, I am bold to present thee with this second part; wherein, if there be any thing that shall please thee, I shall think my small paines well bestowed. And if ought be dis-relished by thy over-nice and cu<g ref="char:EOLhyphen"/>rious palate, I must entreat thee to be so candid as to pardon it, since I wrote not to please one, but many. However, if thou art humor'd in some things (which I do not question but thou wilt be) thou mayst bear with others. Let the Hare's Head and Goose Jublits go together. And so</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:115517:3"/>
+            <head>THE SUPPLEMENT TO THE NEW LETANY for these Times.</head>
+            <lg>
+               <l>THat it may please thee to uphold</l>
+               <l>Th' Religion of our Fathers old,</l>
+               <l>Which now for novelty is sold:</l>
+               <l>
+                  <hi>Quaesumus to, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to adorn</l>
+               <l>Our hearts with grace, that we may mourn,</l>
+               <l>Cause we have been so oft forsworn:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to defend us</l>
+               <l>From th' Gallows, which doth now attend us,</l>
+               <l>Unlesse we do with speed amend us:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to restore</l>
+               <l>Our Trading, as in times of <hi>Yore,</hi>
+               </l>
+               <l>And when w'are well, we'le winch no more:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:115517:3"/>
+               <l>That it may please thee t' hear our Pray'r,</l>
+               <l>And turn foul weather into fair,</l>
+               <l>And send us once an honest Mayor:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to espouse</l>
+               <l>Us to thy Truth, let's keep our Vows;</l>
+               <l>And may our Wives not branch our brows:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee not t' degrade</l>
+               <l>The Priests, though Brethren of the Blade</l>
+               <l>Are gifted in the preaching Trade:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee not to blast's,</l>
+               <l>Nor with thy Plagues and Judgments wast's,</l>
+               <l>Who tire thee with pretended Fasts:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee us t' unite,</l>
+               <l>And make us of one heart and sp'rite,</l>
+               <l>Not hooting after each new Light:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to withdraw</l>
+               <l>From us such Pow'rs would keep's in awe,</l>
+               <l>Who are for Gospel, and no Law:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to pull down</l>
+               <l>The pride of those who great are grown</l>
+               <l>By th' ruines of our Church and Crown:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to dispence</l>
+               <l>With our long-wasted Conscience,</l>
+               <l>Whose Godlinesse is meer pretence:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:115517:4"/>
+               <l>That it may please thee to content</l>
+               <l>Us for our Plate and Moneys, lent</l>
+               <l>On Publick Faith to th' Parliament:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+               <l>That it may please thee co restore</l>
+               <l>Our Churches Glory, as before,</l>
+               <l>And hedge it as the Forrest Boar:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+               <l>That it maay please thee to afford</l>
+               <l>Us such Dividers of thy Word,</l>
+               <l>As may not cut it with their Sword:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+               <l>That it may please thee once to heal</l>
+               <l>Our breaches, and to us reveal</l>
+               <l>Better's a King than Commonweal:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee in due season,</l>
+               <l>To let us all be rul'd by Reason,</l>
+               <l>And leave Rebellion and Treason:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to asswage</l>
+               <l>The force of Tyrants and their rage,</l>
+               <l>And bring us <hi>Charls</hi> upon the Stage:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to out blot</l>
+               <l>That error in our mindes begot,</l>
+               <l>That only Treason prospers not:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee, 'bove our merit,</l>
+               <l>To grant our Sons may not inherit</l>
+               <l>Our dastard, dull, and flavish spirit:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:115517:4"/>
+               <l>That it may please thee to subdue</l>
+               <l>The Dipping and the Quaking Crew,</l>
+               <l>The Turk, the Jesuite, and Jew:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee t' have compassion</l>
+               <l>On this our sad distracted Nation,</l>
+               <l>And bring plain Honesty in fashion:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to bestow</l>
+               <l>On us such wisdome, as to know</l>
+               <l>A faithfull friend from flatt'ring foe:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to remove</l>
+               <l>Those Plagues that hang our heads above,</l>
+               <l>For want of Charity and love:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to compose</l>
+               <l>Our differences, and silence those</l>
+               <l>Zealots that twang it through the Nose:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to abate</l>
+               <l>The rage of those who deadly hate</l>
+               <l>All Order both in Church and State:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to declare</l>
+               <l>To those that trayterous Rebels are,</l>
+               <l>That 'tis in vain to use long prayer:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee us t'advise</l>
+               <l>What good to th' Nation may arise</l>
+               <l>From Taxes, Custome and Excise:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:115517:5"/>
+               <l>That it may please thee to reduce</l>
+               <l>Our ancient Laws, grown out of use,</l>
+               <l>Unto their pow'r without abuse:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to refrain</l>
+               <l>Us to destroy, although 'tis plain,</l>
+               <l>Our godlinesse is all for gain:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee for to smother</l>
+               <l>Our bloody rage 'gainst one another,</l>
+               <l>Since Cobler <hi>Huson</hi> flew his Brother:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee keep's from stabs</l>
+               <l>Of Ruffins, and from dirty Drabs,</l>
+               <l>And turn our <hi>Lobsters</hi> into <hi>Crabs:</hi>
+               </l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to fulfill</l>
+               <l>That Prophecy, <hi>That England will,</hi>
+               </l>
+               <l>
+                  <hi>Ev'n by a</hi> Monck <hi>be freed from ill:</hi>
+               </l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may please thee to appear</l>
+               <l>In our defence: let's keep good cheer,</l>
+               <l>And drink good Sack, strong Ale and Beer:</l>
+               <l>
+                  <hi>Quaesumus te, &amp;c.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:115517:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
